@@ -67,7 +67,7 @@ GitHub
 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
-'''
+
 - vendor-performance-analysis/
 
 -README.md
@@ -94,5 +94,34 @@ GitHub
 
 -vendor_performance_analysis_dashboard.pbix
 
-'''
+
+<h2 class="anchor" id="data-cleaning--preparation">-</a>Data Cleaning & Preparation</h2>
+
+
+
+Removed transactions with:
+
+Gross Profite < 0
+Profit Margin < 0
+Sales Quantity = 0
+Created summary tables with vendor-level metrics
+Converted data types, handled outliers, merged lookup tables
+
+
+<h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
+
+- Negative or Zero Values Detected:
+-Gross Profit: Min -52,002.78 (loss-making sales)
+-Profit Margin: Min (sales at zero or below cost)
+-Unsold Inventory: Indicating slow-moving stock
+
+- Outliers Identified:
+High Freight Costs (up to 257K)
+Large Purchase/Actual Prices
+
+- Correlation Analysis:
+
+Weak between Purchase Price & Profit
+Strong between Purchase Qty & Sales Qty (0.999)
+Negative between Profit Margin & Sales Price (-0.179)
 
