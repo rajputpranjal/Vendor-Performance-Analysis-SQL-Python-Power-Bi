@@ -66,7 +66,7 @@ Power BI (Interactive Visualizations)
 GitHub
 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
-```
+
 
 - vendor-performance-analysis/
 
@@ -94,7 +94,7 @@ GitHub
 
 -vendor_performance_analysis_dashboard.pbix
 
-```
+
 <h2 class="anchor" id="data-cleaning--preparation">-</a>Data Cleaning & Preparation</h2>
 
 
@@ -188,7 +188,7 @@ Performance Heatmaps
 
 
 ```bash
-git clone https://github.com/pranjalrajput/vendor-performance-analysis.git
+git clone https://github.com/pranjalrajput/vendor-performance-analysis-sql-python-power bi.git
 ```
 
 - 3. Load the CSVs and ingest into database:
