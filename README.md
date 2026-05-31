@@ -66,7 +66,7 @@ Power BI (Interactive Visualizations)
 GitHub
 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
-
+'''
 - vendor-performance-analysis/
 
 -README.md
@@ -77,19 +77,21 @@ GitHub
 
 -Vendor Performance Report.pdf
 
-notebooks/
+- notebooks/
 
 -exploratory_data_analysis.ipynb
 
 -vendor_performance_analysis.ipynb
 
-scripts/
+- scripts/
 
 -ingestion_db.py
 
 -get_vendor_summary.py
 
-dashboard/
+- dashboard/
 
 -vendor_performance_analysis_dashboard.pbix
+
+'''
 
