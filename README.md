@@ -68,27 +68,21 @@ GitHub
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
 vendor-performance-analysis/
-
-README.md
-
-.gitignore
-
-requirements.txt
-
-Vendor Performance Report.pdf
+-README.md
+-gitignore
+-requirements.txt
+-Vendor Performance Report.pdf
 
 notebooks/
+-exploratory_data_analysis.ipynb
+-vendor_performance_analysis.ipynb
 
-#Jupyter notebooks
-exploratory_data_analysis.ipynb
-
-vendor_performance_analysis.ipynb
 scripts/
+-ingestion_db.py
+-get_vendor_summary.py
 
-# Python scripts for ingestion and processing
-
-ingestion_db.py
-get_vendor_summary.py
+dashboard/
+-vendor_performance_analysis_dashboard.pbix
 
 
 dashboard/
