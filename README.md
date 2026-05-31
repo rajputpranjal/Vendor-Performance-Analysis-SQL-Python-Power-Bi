@@ -136,3 +136,42 @@ Strong between Purchase Qty & Sales Qty (0.999)
 
 Negative between Profit Margin & Sales Price (-0.179)
 
+
+
+
+ <h2><a class="anchor" id="research-questions--key-findings">ga-Research Questions & Key Findings
+
+- Brands for Promotions: 198 brands with low sales but high profit margins
+
+
+- Top Vendors: Top 10 vendors = 65.69% of purchases risk of over-reliance
+
+- Bulk Purchasing Impact: 72% cost savings per unit in large orders
+
+- Inventory Turnover: $2.71M worth of unsold inventory 4.
+
+ - Vendor Profitability:
+
+ High Vendors: Mean Margin = 31.17%
+
+ Low Vendors: Mean Margin = 41.55%
+
+
+
+- Hypothesis Testing: Statistically significant difference in profit margins distinct vendor strateg
+
+
+<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
+
+
+
+Power BI Dashboard shows:
+
+Vendor-wise Sales and Margins
+
+Inventory Turnover
+
+Bulk Purchase Savings
+
+Performance Heatmaps
+
