@@ -67,7 +67,7 @@ GitHub
 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
-vendor-performance-analysis/
+- vendor-performance-analysis/
 
 -README.md
 
