@@ -175,5 +175,6 @@ Bulk Purchase Savings
 
 Performance Heatmaps
 
-[Vendor Performance Dashboard] ("C:\Users\pranj\OneDrive\Pictures\Screenshots\Screenshot (20).png")
+! [Vendor Performance Dashboard] 
+("C:\Users\pranj\OneDrive\Pictures\Screenshots\Screenshot (20).png")
 
