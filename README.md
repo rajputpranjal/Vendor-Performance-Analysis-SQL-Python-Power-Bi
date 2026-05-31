@@ -186,8 +186,9 @@ Performance Heatmaps
 - 1. Clone the repository:
 
 
-git clone https://github.com/yourusername/vendor-performance-analysis.git
 
+```bash
+git clone https://github.com/pranjalrajput/vendor-performance-analysis.git
 
 
 - 3. Load the CSVs and ingest into database:
@@ -223,4 +224,22 @@ dashboard/vendor_performance_dashboard.pbix
 
 
 - Diversify vendor base to reduce risk
+
+- Optimize bulk order strategies
+
+- Reprice slow-moving, high-margin brands
+
+- Clear unsold inventory strategically
+
+- Improve marketing for underperforming vendors
+
+
+
+<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+
+
+
+Email: pranjalnrajput14@gmail.com
+
+[LinkedIn) (https://www.linkedin.com/in/pranjalrajput14/)
 
