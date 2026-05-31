@@ -1,0 +1,151 @@
+2026-05-20 21:26:47,656 - INFO - ingesting begin_inventory.csv in db
+2026-05-20 21:26:50,837 - INFO - ingesting end_inventory.csv in db
+2026-05-20 21:26:59,229 - INFO - ingesting purchases.csv in db
+2026-05-20 21:27:56,970 - INFO - ingesting purchase_prices.csv in db
+2026-05-20 21:28:17,106 - INFO - ingesting sales.csv in db
+2026-05-20 21:36:06,567 - INFO - ingesting vendor_invoice.csv in db
+2026-05-20 21:36:06,762 - INFO - -------ingestion complete---------
+2026-05-20 21:36:06,763 - INFO - total time taken:9.324078726768494 minutes
+2026-05-20 22:17:41,790 - INFO - -------ingestion complete---------
+2026-05-20 22:17:41,791 - INFO - total time taken:2.5153160095214845e-06 minutes
+2026-05-20 22:17:42,173 - INFO - ingesting begin_inventory.csv in db
+2026-05-20 22:17:44,609 - INFO - -------ingestion complete---------
+2026-05-20 22:17:44,610 - INFO - total time taken:0.04699264367421468 minutes
+2026-05-20 22:17:44,907 - INFO - ingesting end_inventory.csv in db
+2026-05-20 22:17:47,929 - INFO - -------ingestion complete---------
+2026-05-20 22:17:47,930 - INFO - total time taken:0.10231926838556925 minutes
+2026-05-20 22:17:55,667 - INFO - ingesting purchases.csv in db
+2026-05-20 22:18:48,334 - INFO - -------ingestion complete---------
+2026-05-20 22:18:48,334 - INFO - total time taken:1.1090607047080994 minutes
+2026-05-20 22:18:48,474 - INFO - ingesting purchase_prices.csv in db
+2026-05-20 22:18:48,644 - INFO - -------ingestion complete---------
+2026-05-20 22:18:48,645 - INFO - total time taken:1.1142424066861472 minutes
+2026-05-20 22:19:09,280 - INFO - ingesting sales.csv in db
+2026-05-20 22:54:26,360 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-20 22:54:26,387 - WARNING - No such comm: d64f2f87-bf45-40d7-b43c-9e0ad603daaf
+2026-05-20 22:54:26,388 - DEBUG - Current comms: []
+2026-05-20 23:02:40,510 - INFO - -------ingestion complete---------
+2026-05-20 23:02:40,520 - INFO - total time taken:44.978521303335825 minutes
+2026-05-20 23:02:42,279 - INFO - ingesting vendor_invoice.csv in db
+2026-05-20 23:02:42,549 - INFO - -------ingestion complete---------
+2026-05-20 23:02:42,549 - INFO - total time taken:45.012644334634146 minutes
+2026-05-20 23:02:42,820 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-20 23:02:42,827 - WARNING - No such comm: fd28bcfe-de83-4117-8586-7e08ff135d73
+2026-05-20 23:02:42,828 - DEBUG - Current comms: []
+2026-05-20 23:04:12,387 - INFO - -------ingestion complete---------
+2026-05-20 23:04:12,387 - INFO - total time taken:1.5119711558024088e-05 minutes
+2026-05-20 23:04:12,821 - INFO - ingesting begin_inventory.csv in db
+2026-05-20 23:04:16,451 - INFO - -------ingestion complete---------
+2026-05-20 23:04:16,451 - INFO - total time taken:0.06775238911310831 minutes
+2026-05-20 23:04:16,973 - INFO - ingesting end_inventory.csv in db
+2026-05-20 23:04:21,256 - INFO - -------ingestion complete---------
+2026-05-20 23:04:21,256 - INFO - total time taken:0.14782853921254477 minutes
+2026-05-20 23:04:30,345 - INFO - ingesting purchases.csv in db
+2026-05-20 23:05:53,849 - INFO - -------ingestion complete---------
+2026-05-20 23:05:53,850 - INFO - total time taken:1.6910559813181558 minutes
+2026-05-20 23:05:54,052 - INFO - ingesting purchase_prices.csv in db
+2026-05-20 23:05:54,280 - INFO - -------ingestion complete---------
+2026-05-20 23:05:54,281 - INFO - total time taken:1.6982410113016764 minutes
+2026-05-20 23:06:24,390 - INFO - ingesting sales.csv in db
+2026-05-20 23:17:03,368 - INFO - -------ingestion complete---------
+2026-05-20 23:17:03,379 - INFO - total time taken:12.849561309814453 minutes
+2026-05-20 23:17:05,184 - INFO - ingesting vendor_invoice.csv in db
+2026-05-20 23:17:05,426 - INFO - -------ingestion complete---------
+2026-05-20 23:17:05,427 - INFO - total time taken:12.884004620711009 minutes
+2026-05-20 23:17:05,432 - INFO - creating vendor summary table....
+2026-05-20 23:18:23,595 - INFO - cleaning data....
+2026-05-20 23:18:23,636 - INFO - insert data....
+2026-05-20 23:18:24,072 - INFO - completed
+2026-05-20 23:18:24,160 - INFO - -------ingestion complete---------
+2026-05-20 23:18:24,160 - INFO - total time taken:3.5365422566731772e-06 minutes
+2026-05-20 23:18:24,642 - INFO - ingesting begin_inventory.csv in db
+2026-05-20 23:18:27,845 - INFO - -------ingestion complete---------
+2026-05-20 23:18:27,845 - INFO - total time taken:0.061431050300598145 minutes
+2026-05-20 23:18:28,313 - INFO - ingesting end_inventory.csv in db
+2026-05-20 23:18:32,697 - INFO - -------ingestion complete---------
+2026-05-20 23:18:32,697 - INFO - total time taken:0.14229010343551635 minutes
+2026-05-20 23:18:40,462 - INFO - ingesting purchases.csv in db
+2026-05-20 23:22:57,761 - INFO - -------ingestion complete---------
+2026-05-20 23:22:57,761 - INFO - total time taken:4.56002615292867 minutes
+2026-05-20 23:22:58,039 - INFO - ingesting purchase_prices.csv in db
+2026-05-20 23:22:58,341 - INFO - -------ingestion complete---------
+2026-05-20 23:22:58,342 - INFO - total time taken:4.569696493943533 minutes
+2026-05-20 23:23:30,716 - INFO - ingesting sales.csv in db
+2026-05-20 23:30:01,477 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-20 23:30:01,531 - WARNING - No such comm: 35771467-c649-4db7-a40f-657def7ad319
+2026-05-20 23:30:01,536 - DEBUG - Current comms: []
+2026-05-20 23:35:17,965 - INFO - -------ingestion complete---------
+2026-05-20 23:35:17,990 - INFO - total time taken:16.896547559897105 minutes
+2026-05-20 23:35:20,409 - INFO - ingesting vendor_invoice.csv in db
+2026-05-20 23:35:20,648 - INFO - -------ingestion complete---------
+2026-05-20 23:35:20,648 - INFO - total time taken:16.941469657421113 minutes
+2026-05-20 23:35:20,655 - INFO - creating vendor summary table....
+2026-05-20 23:36:33,685 - INFO - cleaning data....
+2026-05-20 23:36:33,756 - INFO - insert data....
+2026-05-20 23:36:34,262 - INFO - completed
+2026-05-20 23:36:34,498 - INFO - -------ingestion complete---------
+2026-05-20 23:36:34,498 - INFO - total time taken:7.826089859008789e-05 minutes
+2026-05-20 23:36:35,186 - INFO - ingesting begin_inventory.csv in db
+2026-05-20 23:36:38,415 - INFO - -------ingestion complete---------
+2026-05-20 23:36:38,415 - INFO - total time taken:0.06536056995391845 minutes
+2026-05-20 23:36:38,917 - INFO - ingesting end_inventory.csv in db
+2026-05-20 23:36:42,603 - INFO - -------ingestion complete---------
+2026-05-20 23:36:42,604 - INFO - total time taken:0.13517135381698608 minutes
+2026-05-20 23:36:50,476 - INFO - ingesting purchases.csv in db
+2026-05-20 23:38:01,015 - INFO - -------ingestion complete---------
+2026-05-20 23:38:01,015 - INFO - total time taken:1.4420239369074503 minutes
+2026-05-20 23:38:01,214 - INFO - ingesting purchase_prices.csv in db
+2026-05-20 23:38:01,469 - INFO - -------ingestion complete---------
+2026-05-20 23:38:01,469 - INFO - total time taken:1.4495922565460204 minutes
+2026-05-20 23:38:33,273 - INFO - ingesting sales.csv in db
+2026-05-28 18:01:18,416 - INFO - -------ingestion complete---------
+2026-05-28 18:01:18,417 - INFO - total time taken:6.0836474100748696e-06 minutes
+2026-05-28 18:01:18,743 - INFO - ingesting begin_inventory.csv in db
+2026-05-28 18:01:21,311 - INFO - -------ingestion complete---------
+2026-05-28 18:01:21,311 - INFO - total time taken:0.048245338598887126 minutes
+2026-05-28 18:01:21,709 - INFO - ingesting end_inventory.csv in db
+2026-05-28 18:01:24,768 - INFO - -------ingestion complete---------
+2026-05-28 18:01:24,768 - INFO - total time taken:0.10587118069330852 minutes
+2026-05-28 18:01:30,368 - INFO - ingesting purchases.csv in db
+2026-05-28 18:02:26,203 - INFO - -------ingestion complete---------
+2026-05-28 18:02:26,203 - INFO - total time taken:1.1297800540924072 minutes
+2026-05-28 18:02:26,348 - INFO - ingesting purchase_prices.csv in db
+2026-05-28 18:02:26,488 - INFO - -------ingestion complete---------
+2026-05-28 18:02:26,488 - INFO - total time taken:1.1345275402069093 minutes
+2026-05-28 18:02:46,297 - INFO - ingesting sales.csv in db
+2026-05-28 18:09:45,733 - INFO - -------ingestion complete---------
+2026-05-28 18:09:45,739 - INFO - total time taken:8.455217389265696 minutes
+2026-05-28 18:09:46,952 - INFO - ingesting vendor_invoice.csv in db
+2026-05-28 18:09:47,137 - INFO - -------ingestion complete---------
+2026-05-28 18:09:47,138 - INFO - total time taken:8.478688951333364 minutes
+2026-05-28 18:09:47,145 - INFO - creating vendor summary table....
+2026-05-28 18:10:54,104 - INFO - cleaning data....
+2026-05-28 18:10:54,182 - INFO - insert data....
+2026-05-28 18:10:54,444 - INFO - completed
+2026-05-28 18:10:54,544 - INFO - -------ingestion complete---------
+2026-05-28 18:10:54,545 - INFO - total time taken:5.269050598144532e-06 minutes
+2026-05-28 18:10:54,831 - INFO - ingesting begin_inventory.csv in db
+2026-05-28 18:10:57,235 - INFO - -------ingestion complete---------
+2026-05-28 18:10:57,235 - INFO - total time taken:0.04484633604685465 minutes
+2026-05-28 18:10:57,622 - INFO - ingesting end_inventory.csv in db
+2026-05-28 18:11:00,449 - INFO - -------ingestion complete---------
+2026-05-28 18:11:00,449 - INFO - total time taken:0.09841226736704509 minutes
+2026-05-28 18:11:06,392 - INFO - ingesting purchases.csv in db
+2026-05-28 18:12:05,465 - INFO - -------ingestion complete---------
+2026-05-28 18:12:05,465 - INFO - total time taken:1.1820205847422283 minutes
+2026-05-28 18:12:05,567 - INFO - ingesting purchase_prices.csv in db
+2026-05-28 18:12:05,722 - INFO - -------ingestion complete---------
+2026-05-28 18:12:05,723 - INFO - total time taken:1.1863066752751668 minutes
+2026-05-28 18:12:28,079 - INFO - ingesting sales.csv in db
+2026-05-28 18:19:58,560 - INFO - -------ingestion complete---------
+2026-05-28 18:19:58,567 - INFO - total time taken:9.066804893811543 minutes
+2026-05-28 18:19:59,889 - INFO - ingesting vendor_invoice.csv in db
+2026-05-28 18:20:00,105 - INFO - -------ingestion complete---------
+2026-05-28 18:20:00,105 - INFO - total time taken:9.09268327554067 minutes
+2026-05-28 18:20:00,112 - INFO - creating vendor summary table....
+2026-05-28 18:21:07,519 - INFO - cleaning data....
+2026-05-28 18:21:07,574 - INFO - insert data....
+2026-05-28 18:21:07,851 - INFO - completed
+2026-05-28 18:21:08,060 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-28 18:21:08,208 - WARNING - No such comm: 5a58900f-a5da-447b-9ce8-a14e3529794f
+2026-05-28 18:21:08,208 - DEBUG - Current comms: []
