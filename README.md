@@ -189,7 +189,7 @@ Performance Heatmaps
 
 ```bash
 git clone https://github.com/pranjalrajput/vendor-performance-analysis.git
-
+```
 
 - 3. Load the CSVs and ingest into database:
 
