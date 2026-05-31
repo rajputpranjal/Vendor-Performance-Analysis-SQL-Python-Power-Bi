@@ -139,7 +139,7 @@ Negative between Profit Margin & Sales Price (-0.179)
 
 
 
- <h2><a class="anchor" id="research-questions--key-findings"><a/> ga-Research Questions & Key Findings> </h2>
+ <h2><a class="anchor" id="research-questions--key-findings"><a/> Research Questions & Key Findings> </h2>
 
 - Brands for Promotions: 198 brands with low sales but high profit margins
 
